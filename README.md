@@ -1,6 +1,7 @@
-# test-proj
+# Best Friend Finder
+Best Friend Finder is a fast and easy way to find your new four-legged best friend.  Just type in what species you are looking for and your zip code and find potential best friends located near you.
 
-> test proj
+This was just a fun project that I am goofing around with to experiment with the Vue.js cli.
 
 ## Build Setup
 
